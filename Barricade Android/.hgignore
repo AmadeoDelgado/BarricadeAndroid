@@ -1,0 +1,18 @@
+syntax: glob
+
+bin/*
+gen/*
+obj/*
+build/*
+captures/*
+src/main/assets/*
+
+.idea/libraries/*
+.idea/workspace.xml
+.externalNativeBuild/*
+
+.gradle
+.DS_Store
+local.properties
+basics-simple-example/projects/android-studio-3/app/.gitignore
+basics-simple-example/projects/android-studio-3/.gitignore
